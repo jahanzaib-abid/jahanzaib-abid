@@ -1,4 +1,4 @@
-# Hi, I'm Jahanzaib Abid 👋
+# Jahanzaib Abid 👋
 
 ### Software Engineer · Full-Stack Developer · AI Integration
 
