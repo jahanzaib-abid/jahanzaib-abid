@@ -1,10 +1,10 @@
 # Jahanzaib Abid 👋
 
-### Software Engineer · Full-Stack Developer · AI Integration
+### Software Engineer · Full-Stack Developer
 
-Results-driven **Full-Stack Software Engineer** with **4+ years** of remote experience building and shipping scalable web applications for **international clients** across education, e-commerce, travel, and data analytics.
+Results-driven **Full-Stack Software Engineer** with **4+ years** of remote experience building and shipping scalable web applications for **international clients** across education, e-commerce, travel and data analytics.
 
-I specialize in **Python**, **Django**, **React.js**, and **AI-powered platforms** — taking products from concept to production while collaborating closely with distributed teams across time zones.
+I specialize in **Python**, **Django**, **React.js** and **AI-powered platforms** — taking products from concept to production while collaborating closely with distributed teams across time zones.
 
 ---
 
